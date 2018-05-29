@@ -1,0 +1,31 @@
+{
+  "name": "couchbase-lite-cordova-android-plugin",
+  "version": "1.5.0",
+  "description": "Install Couchbase Lite in your app to enable JSON sync.",
+  "cordova": {
+    "id": "couchbase-lite-phonegap-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumeet-singh04/Couchbase-Lite-PhoneGap-Plugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=7.0.0"
+    }
+  ],
+  "author": "Sumeet Singh",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/sumeet-singh04/Couchbase-Lite-PhoneGap-Plugin/issues"
+  },
+  "homepage": "https://github.com/sumeet-singh04/Couchbase-Lite-PhoneGap-Plugin#readme"
+}
